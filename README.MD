@@ -24,7 +24,7 @@ in the DansBikeShop.Core project instead of contains in different projects.  Thi
 
 - Bonus points for Authorization
 
-- The solution should run in a Docker container.
+- Bonus points for running the solution in a Docker container.
 
 Please submit a pull reques with your changes.  Also feel free to note any improvements that you think should be made. 
 If you would prefer a radically different architecture (such as CQRS), feel free to implement the application in that architecture.
